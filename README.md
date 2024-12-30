@@ -1,4 +1,4 @@
-# Jogo do Número Secreto
+# :video_game: Jogo do Número Secreto
 <h2>Sobre</h2>
 <p>Jogo criado em JavaScript para praticar os conceitos aprendidos no curso de lógica da ALURA.</p>
 
